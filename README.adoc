@@ -22,4 +22,4 @@ rain
 
 == 教程
 
-网址： link:https://springdev.io/guides/spring/spring-boot-hello-world-groovy/[spring-boot-hello-world-groovy, role="external", window="_blank"]
+网址： https://springdev.io/guides/spring/spring-boot-hello-world-groovy/[spring-boot-hello-world-groovy]
