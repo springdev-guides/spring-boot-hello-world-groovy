@@ -18,7 +18,7 @@ rain
 * Spring Boot CLI : 2.1.2
 * Gradle : 4.10.2
 * IntelliJ IDEA : 2018.3
-* Curl / HTTPPie
+* Curl / HTTPie
 
 == 教程
 
